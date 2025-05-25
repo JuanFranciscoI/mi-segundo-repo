@@ -43,7 +43,7 @@ public class Ejercicio1 {
                 if (fecha1.isAfter(fecha2)) {
                     System.out.println("La primera fecha es posterior.");
                 } else if (fecha1.isBefore(fecha2)) {
-                    System.out.println("La segunda fecha es posterior.");
+                    System.out.println("La segunda fecha es anterior.");
                 } else {
                     System.out.println("Las fechas son iguales.");
                 }
